@@ -1,0 +1,4 @@
+Steps:
+1. hit command - npm install
+2. run server.js file using node server.js or nodemon server.js
+3. open link and execute query in GraphQL Playground
